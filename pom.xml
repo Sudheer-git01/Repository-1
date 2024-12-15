@@ -7,8 +7,7 @@
   <artifactId>flm</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>flm</name>
-  <!-- FIXME change it to the project's website -->
+  <name>pom.xml</name>
   <url>http://www.example.com</url>
 
   <properties>
